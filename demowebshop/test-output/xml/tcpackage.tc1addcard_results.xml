@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test3"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="15.303">
+  <properties />
+  
+  
+            <testcase name="the_selected_book_is_added_to_cart" time="0.002" classname="tcpackage.tc1addcard" />
+                <testcase name="the_user_wants_to_select_anybook_and_add_to_cart" time="15.301" classname="tcpackage.tc1addcard" />
+      
+</testsuite>

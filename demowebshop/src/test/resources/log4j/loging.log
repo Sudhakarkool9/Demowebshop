@@ -1,0 +1,36 @@
+2020-04-11 15:16:51 INFO  tcregister:87 - opening browser
+2020-04-11 15:16:54 INFO  tcregister:87 - registrationpage opened
+2020-04-11 15:16:55 INFO  tcregister:87 - entered Firstname
+2020-04-11 15:16:55 INFO  tcregister:87 - entered lastname
+2020-04-11 15:16:56 INFO  tcregister:87 - entered email
+2020-04-11 15:16:56 INFO  tcregister:87 - entered password
+2020-04-11 15:17:07 INFO  tclogin:61 - launching browser
+2020-04-11 15:17:09 INFO  tclogin:61 - submit is sucessfully compeyted
+2020-04-11 15:17:09 INFO  tclogin:61 - entered login details
+2020-04-11 15:19:30 INFO  tcregister:87 - opening browser
+2020-04-11 15:19:32 INFO  tcregister:87 - registrationpage opened
+2020-04-11 15:19:32 INFO  tcregister:87 - entered Firstname
+2020-04-11 15:19:32 INFO  tcregister:87 - entered lastname
+2020-04-11 15:19:32 INFO  tcregister:87 - entered email
+2020-04-11 15:19:33 INFO  tcregister:87 - entered password
+2020-04-11 15:19:43 INFO  tclogin:61 - launching browser
+2020-04-11 15:19:44 INFO  tclogin:61 - submit is sucessfully compeyted
+2020-04-11 15:19:44 INFO  tclogin:61 - entered login details
+2020-04-11 15:37:02 INFO  tcregister:87 - opening browser
+2020-04-11 15:37:05 INFO  tcregister:87 - registrationpage opened
+2020-04-11 15:37:06 INFO  tcregister:87 - entered Firstname
+2020-04-11 15:37:06 INFO  tcregister:87 - entered lastname
+2020-04-11 15:37:06 INFO  tcregister:87 - entered email
+2020-04-11 15:37:07 INFO  tcregister:87 - entered password
+2020-04-11 15:37:18 INFO  tclogin:61 - launching browser
+2020-04-11 15:37:20 INFO  tclogin:61 - submit is sucessfully compeyted
+2020-04-11 15:37:20 INFO  tclogin:61 - entered login details
+2020-04-11 17:23:05 INFO  tcregister:87 - opening browser
+2020-04-11 17:23:07 INFO  tcregister:87 - registrationpage opened
+2020-04-11 17:23:08 INFO  tcregister:87 - entered Firstname
+2020-04-11 17:23:08 INFO  tcregister:87 - entered lastname
+2020-04-11 17:23:08 INFO  tcregister:87 - entered email
+2020-04-11 17:23:09 INFO  tcregister:87 - entered password
+2020-04-11 17:23:22 INFO  tclogin:61 - launching browser
+2020-04-11 17:23:24 INFO  tclogin:61 - submit is sucessfully compeyted
+2020-04-11 17:23:24 INFO  tclogin:61 - entered login details
